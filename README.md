@@ -40,13 +40,14 @@ TRAINING
 - Optimizer: Adam dengan learning rate 0.001
 - Model dilatih selama 5 epoch
 - Kita juga hitung PSNR (Peak Signal-to-Noise Ratio) buat ngukur seberapa bagus kualitas hasil rekonstruksi
-- ![image](https://github.com/user-attachments/assets/d042c0ae-7ab6-4e6d-848c-7ca6aad54d25)
-
+  
 
 HASIL TRAINING
 Dibikin grafik:
 - Perubahan loss tiap epoch
 - Nilai PSNR tiap epoch
+![image](https://github.com/user-attachments/assets/d042c0ae-7ab6-4e6d-848c-7ca6aad54d25)
+
 
 VISUALISASI OUTPUT
 Ditampilkan hasilnya:
